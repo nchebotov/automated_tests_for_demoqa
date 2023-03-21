@@ -44,7 +44,3 @@ def test_filling_out_registration_forms_for_the_demoqa():
     )
     )
 
-
-
-
-
